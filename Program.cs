@@ -22,11 +22,11 @@ int newFunc(string param)
     else if (param == "hard")
     {
         x = 4;
-    };
+    }
     else if (param == "cheater")
     {
         x = 100;
-    }
+    };
     return x;
 };
 
